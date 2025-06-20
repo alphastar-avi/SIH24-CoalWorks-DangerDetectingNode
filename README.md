@@ -73,6 +73,13 @@ A real-time safety system that monitors hazards like gas leaks, mine collapse, a
   * Methane and CO levels (ppm)
   * Alert flag
 
+
+
+https://github.com/user-attachments/assets/05afa187-4429-4e2e-83a8-eed230d82df5
+
+
+
+
 ## Mesh Communication
 
 Each node broadcasts its sensor data over the mesh every second:
