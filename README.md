@@ -7,6 +7,8 @@ https://github.com/user-attachments/assets/7a2e3b81-b254-43a4-9c17-493ed9443309
 
 A real-time safety system that monitors hazards like gas leaks, mine collapse, and extreme sound, while helping workers communicate, tracking their oxygen levels, detecting falls, checking productivity, and monitoring their location.
 
+![V1](https://github.com/user-attachments/assets/cbf80e66-cdbb-46c1-8981-cb09966b264b)
+
 ## Features
 
 * Mesh network communication using `painlessMesh`
@@ -44,6 +46,8 @@ A real-time safety system that monitors hazards like gas leaks, mine collapse, a
 | **GPS TX**        | 17                         | 
 | **MPU6050 (I2C)** | GPIO21 (SDA), GPIO22 (SCL) | 
 | **BMP280 (I2C)**  | GPIO21 (SDA), GPIO22 (SCL) | 
+
+![Different versions](https://github.com/user-attachments/assets/a0bb962f-62f9-4644-af60-43aceaad2bf1)
 
 
 ## Mesh Network Setup
@@ -95,6 +99,11 @@ mesh.onReceive([](uint32_t from, String &msg) {
 ## Mind
 * GPS might take a few seconds to get a fix. Place antenna outdoors for better signal...
 * Mesh nodes should be within Wi-Fi range of each other for stable communication.
+
+![V1 vs Final build](https://github.com/user-attachments/assets/941f9480-91ca-4d69-a68e-0655f4d638ec)
+
+[brochure-sih-2 (1).pdf](https://github.com/user-attachments/files/20841769/brochure-sih-2.1.pdf)
+
 
 ---
 
