@@ -105,7 +105,7 @@ mesh.onReceive([](uint32_t from, String &msg) {
 
 ## Mind
 * GPS might take a few seconds to get a fix. Place antenna outdoors for better signal...
-* Mesh nodes should be within Wi-Fi range of each other for stable communication.
+* Mesh nodes should be within Wi-Fi range of each other for stable communication...
 
 ![V1 vs Final build](https://github.com/user-attachments/assets/941f9480-91ca-4d69-a68e-0655f4d638ec)
 
