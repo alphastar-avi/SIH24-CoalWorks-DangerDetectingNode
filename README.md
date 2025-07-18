@@ -27,7 +27,7 @@ A real-time safety system that monitors hazards like gas leaks, mine collapse, a
 * **BMP280** – Barometric pressure and temperature sensor
 * **MQ4** – Methane sensor
 * **MQ7** – Carbon monoxide sensor
-* **NEO-8M** - GPS
+* **NEO-8M** - GPS sensor
 * **Sound sensor**
 * **Relay & Buzzer**
 * **Push button**
